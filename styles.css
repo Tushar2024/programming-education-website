@@ -6,3 +6,7 @@
  .caption-design {
      margin-bottom: 160px;
  }
+ 
+ .social-media a {
+     text-decoration: none;
+ }
