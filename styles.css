@@ -3,6 +3,10 @@
      height: 700px;
  } */
  
+ body {
+     font-family: 'Poppins', sans-serif;
+ }
+ 
  .caption-design {
      margin-bottom: 160px;
  }
